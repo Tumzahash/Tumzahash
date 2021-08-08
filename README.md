@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tumzahash
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning coding
-- 📫 How to reach me | itz tumiso ll
+- 📫 How to reach me | Fb itz tumiso ll
 
 <!---
 Tumzahash/Tumzahash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
